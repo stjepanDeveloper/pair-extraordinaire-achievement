@@ -38,6 +38,8 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 If you have any questions or need assistance, please open an issue, and we'll be happy to help. Or shoot me a message if it didn't work for some reason. I will do my best to solve the issue! 
 
+If you liked this repository and it helped you in any way , be sure to leave a STAR so other programmers can also see it and get their achievements too!!
+
 Thank you for contributing to the Pair Extraordinaire project!
 Happy coding!!
 
