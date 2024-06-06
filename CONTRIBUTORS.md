@@ -11,6 +11,7 @@ To add your primary email used on GitHub, append it below in the format:
 
 - Iva Mestrovic `<ivaemailwork@gmail.com>`
 - Martin Mestrovic `<martinbracko@gmail.com>`
+- SALIM Abdessamad `<samimalim1991@gmail.com>`
 
 
 ## Contribution Guidelines
