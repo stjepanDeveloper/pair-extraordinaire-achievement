@@ -2,7 +2,7 @@
 
 To add your primary email used on GitHub, append it below in the format:
 
-- Your Name <sahilpanghal2002@gmail.com>
+- Your Name <kanjirohonda@gmail.com>
 - Co Author Name <email@example.com>
 
 
