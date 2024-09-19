@@ -1,5 +1,6 @@
 # pair-extraordinaire-achievement
 Contribute with me and I will help you get that sweet "pair extraordinaire" achievement :D
+IMPORTANT --- To get the achievement you need to become a collaborator on the repository. You can do this by commenting your Github email or username by which I can invite you to collaborate. After you accept the collaboration request you can follow the instructions below.
 
 # Pair Extraordinaire Project
 
