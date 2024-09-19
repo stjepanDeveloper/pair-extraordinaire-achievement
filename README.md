@@ -15,21 +15,24 @@ Welcome to the Pair Extraordinaire project! This initiative aims to help beginne
 
 Start by forking this repository to your GitHub account. This creates a copy of the repository that you can modify.
 
+I highly recommend that you use GitHub Desktop for this because its easier to add collaborators with it.
+
 ### Step 2: Add Your Email
 
 Navigate to the `CONTRIBUTORS.md` file in your forked repository. Edit the file to add your primary email used on GitHub in the format:
 
-- Your Name <email@example.com>
+- Your Name Here <email@example.com>
 
 (NOTE: You need to use your PRIMARY email address which you can see in the Github account settings, otherwise it won't work!!)
 
 ### Step 3: Submit a Pull Request
 
-After adding your email, submit a pull request to the original repository. This request will be reviewed, and if everything is correct, it will be merged.
+After adding your email, submit a pull request to the original repository. If you are using Github Desktop you will see the add collaborators option under the commit message.
+I will merge this pull request after I see the notification.
 
 ### Step 4: Become a Co-Author
 
-Once your pull request is merged, I will add you  as a co-author to the commit, marking your contribution to the project.
+Once your pull request is merged, all the steps are completed!!
 And that's it! Shortly after you should get the achievement in your profile! :D
 
 ## Code of Conduct
