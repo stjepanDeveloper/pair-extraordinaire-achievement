@@ -2,7 +2,7 @@
 
 To add your primary email used on GitHub, append it below in the format:
 
-- Co Author Name <email@example.com>
+- Co Author Name (Put your name here) <email@example.com> (your Github email here)
 
 
 ## Contributors List
@@ -22,4 +22,4 @@ Please follow the below steps to contribute to this project:
 5. After that I will add a descriptive commit message along with a co-author tag and merge the branch.
 6. Check your Github profile, your achievement should be visible!
 
-Thank you for contributing to this project!
+Thank you for contributing to this project! Cheers
