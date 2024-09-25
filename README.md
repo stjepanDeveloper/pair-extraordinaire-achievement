@@ -4,10 +4,6 @@ Contribute with me and I will help you get that sweet "pair extraordinaire" achi
 IMPORTANT --- To get the achievement you need to become a collaborator on the repository. You can do this by commenting your Github email or username by which I can invite you to collaborate. After you accept the collaboration request you can follow the instructions below.
 
 
-## Introduction
-
-Welcome to the Pair Extraordinaire project! This initiative aims to help beginner programmers gain recognition in the open-source community by earning the "Pair Extraordinaire" achievement. By contributing to this project, you'll learn the ins and outs of GitHub collaboration.
-
 ## How to Get the Achievement
 
 ### Step 1: Fork the Repository
