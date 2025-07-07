@@ -8,6 +8,7 @@ To add your primary email used on GitHub, append it below in the format:
 ## Contributors List
 
 - Kanjiro Honda <kanjirohonda@gmail.com>
+- JThweb <jthweb@duck.com>
 
 
 ## Contribution Guidelines
